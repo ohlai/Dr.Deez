@@ -1,2 +1,2 @@
 # Dr.Deez
-A discord bot full of deez replys.
+A discord bot full of deez replies.
