@@ -4,7 +4,7 @@ import deezlib
 
 client = discord.Client()
 
-TOKEN = os.environ['TOKEN']
+TOKEN = os.environ.get(TOKEN)
 prefix = 'dd'
 
 
